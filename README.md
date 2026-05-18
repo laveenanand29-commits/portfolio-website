@@ -30,7 +30,7 @@ Currently learning:
 ![Home](home.png)
 
 ### Projects Section
-![Projects](projects.png)
+![Projects](project.png)
 
 ## Author
 Laveena Anand
