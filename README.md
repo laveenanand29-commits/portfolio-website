@@ -24,5 +24,13 @@ Currently learning:
 - Add animations
 - Add responsive design
 
+  ## Screenshots
+
+### Home Page
+![Home](home.png)
+
+### Projects Section
+![Projects](projects.png)
+
 ## Author
 Laveena Anand
