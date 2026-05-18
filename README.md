@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML and CSS.
 
 ## About Me
-Hi, I'm Laveena Anand 👋
+Hi, I'm Laveena👋
 
 B.Tech CSE Student | Aspiring Software Developer
 
